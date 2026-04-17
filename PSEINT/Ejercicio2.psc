@@ -5,12 +5,12 @@ Algoritmo Ejercicio2
 	Leer nume1
 	leer num2
 	
-	// numeros de las operaciónes
+	// numeros de las operaciÃ³nes
 	Escribir "******************"
-	Escribir "MENÚ PRINCIPAL"
+	Escribir "MENÃš PRINCIPAL"
 	Escribir "1- suma"
 	Escribir "2- Resta"
-	Escribir "3- Multiplicación"
+	Escribir "3- MultiplicaciÃ³n"
 	Escribir "4-Dvidir"
 	Escribir "5-Salir"
 	Leer opc
@@ -24,18 +24,18 @@ Algoritmo Ejercicio2
 				msj= "El reultado de la resta es: "
 				result=num1-num2
 			3:
-				msj= "El reultado de la Multiplicación es: "
+				msj= "El reultado de la MultiplicaciÃ³n es: "
 				result=num1-num2
 				
 			4:
-				msj= "El reultado de la División es: "
+				msj= "El reultado de la DivisiÃ³n es: "
 				result=num1/num2
 				
 			5:
 				msj= "Saliendo del sistema... "
 				
 			De Otro Modo:
-				msj= "Seleccione una opción válida"
+				msj= "Seleccione una opciÃ³n vÃ¡lida"
 		Fin Segun
 		Escribir msj
 		Escribir result
