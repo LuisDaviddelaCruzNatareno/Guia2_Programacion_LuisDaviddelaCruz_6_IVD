@@ -2,9 +2,9 @@ Algoritmo Ejercicio4
 	Definir  opc Como Real
 	Definir msj Como Caracter
 	
-	// numeros de las operaciónes
+	// numeros de las operaciÃ³nes
 	Escribir "******************"
-	Escribir "MENÚ PRINCIPAL"
+	Escribir "MENÃš PRINCIPAL"
 	Escribir "1- hamburgesa"
 	Escribir "2- pizza"
 	Escribir "3- pollo frito"
